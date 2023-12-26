@@ -1,6 +1,5 @@
 
-//  this project is for weather station.
-// It is an embedded system project by Bibek Joshi
+// This is an embedded system project by Bibek Joshi
 // Use Arduino mega 2560 board with this project.
 // This can also work with other boards such as uno or even esp-32 but do adust the pin number correctly according to board installed
 // don't forget to involve the library
